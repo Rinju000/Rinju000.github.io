@@ -1,1 +1,1 @@
-# rinju000.github.io
+# rinju.github.io
