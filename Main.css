@@ -3,7 +3,8 @@ body {
 }
 
 h1 {
-    color: hsl(0%, 0%, 100%);
+    color: hsl(0%, 0%, 100%); /*文字の色*/
+}
 
 h2 {
     color: #FFFFFF
