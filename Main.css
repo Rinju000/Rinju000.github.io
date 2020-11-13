@@ -1,3 +1,7 @@
+body {
+  background: linear-gradient(#05FBFF, #1D62F0 ) fixed;
+}
+
 h2 { 
     background: #c2edff;                /*背景色*/
     padding:5px;                        /*文字の余白*/
