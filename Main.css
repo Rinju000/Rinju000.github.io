@@ -1,5 +1,5 @@
 body {
-  background: hsl(0,0,127);
+  background: hsl(0,0,90);
 }
 
 h2 {
@@ -10,7 +10,7 @@ h2 {
 
 h3 {
     padding: 3px 6px;                   /*上下左右の余白*/
-    color: hsl(0, 0, 200);                     /*文字色*/
+    color: hsl(0, 0, 20);                     /*文字色*/
     background: transparent;            /*背景を透明に変更*/
     border-left: solid 5px #FFFF00;     /*左に色指定で枠線追加*/
 }
