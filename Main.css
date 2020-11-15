@@ -12,21 +12,25 @@ h2 {
     background: transparent;
     /*background: #00FF00;*/                /*背景色*/
     padding:5px;                        /*文字の余白*/
+    text-align: center;
 }
 
 h3 {
     padding: 3px 6px;                   /*上下左右の余白*/
     color: #f8f8f8;                     /*文字色*/
     background: transparent;            /*背景を透明に変更*/
-    border-left: solid 5px #FFFF00;     /*左に色指定で枠線追加*/
+    border-left: solid 5px #FFD700;     /*左に色指定で枠線追加*/
+    border-right: solid 5px #FFD700
 }
 
 h4 {
     color: #f8f8f8;
     background: transparent;
+    text-align: center;
 }
 
 h5 {
     color: #f8f8f8;
     background: transparent;
+    text-align: center;
 }
