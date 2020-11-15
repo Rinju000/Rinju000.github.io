@@ -1,5 +1,9 @@
 body {
   background: #000000;
+  margin-right: auto;//ここで中央寄せを指定する。
+  margin-left : auto;
+  width:700px;
+  font-size:100%;
 }
 
 h1 {
